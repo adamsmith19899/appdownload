@@ -3,28 +3,28 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 
 const faqs = [
   {
-    question: 'How do I get started with the app?',
-    answer: 'Simply download the app from your device\'s app store, create an account, and follow the interactive onboarding guide.'
+    question: 'Is CapCut for PC free?',
+    answer: 'Yes, CapCut for PC is free to download and use.'
   },
   {
-    question: 'Is my data secure?',
-    answer: 'Yes, we use industry-standard encryption and security measures to protect your data. Your privacy is our top priority.'
+    question: 'What are the system requirements for CapCut for PC?',
+    answer: 'The system requirements for CapCut for PC include Windows 10/11, 64-bit processor, 4 GB RAM, and 2 GB free disk space.'
   },
   {
-    question: 'Do you offer a free trial?',
-    answer: 'Yes, we offer a 14-day free trial with full access to all features. No credit card required.'
+    question: 'Can I use CapCut for PC for commercial purposes?',
+    answer: 'Yes, CapCut for PC can be used for commercial purposes, but some features may require a subscription or license.'
   },
   {
-    question: 'What platforms do you support?',
-    answer: 'Our app is available on iOS, Android, and web browsers, with seamless synchronization across all platforms.'
+    question: 'How do I update CapCut for PC?',
+    answer: 'To update CapCut for PC, visit the official website and download the latest version. Install the update and restart the software.'
   },
   {
-    question: 'How do I contact support?',
-    answer: 'You can reach our support team 24/7 through the app, email, or our website\'s chat feature.'
+    question: 'Does CapCut for PC support 4K video editing?',
+    answer: 'Yes, CapCut for PC supports 4K video editing, allowing users to edit and export high-quality videos.'
   },
   {
-    question: 'Can I cancel my subscription anytime?',
-    answer: 'Yes, you can cancel your subscription at any time. No questions asked.'
+    question: 'Can I import projects from other video editing software into CapCut for PC?',
+    answer: 'Yes, CapCut for PC allows users to import projects from other video editing software, making it easy to switch to CapCut.'
   }
 ];
 
