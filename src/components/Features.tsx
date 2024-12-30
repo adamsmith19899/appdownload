@@ -4,23 +4,23 @@ import { Zap, Shield, Clock, Smartphone } from 'lucide-react';
 const features = [
   {
     icon: <Zap className="h-8 w-8" />,
-    title: 'Powerful Editing',
-    description: 'CapCut for PC offers powerful editing capabilities with extensive effects and filters.'
+    title: 'Lightning Fast',
+    description: 'Experience instant load times and smooth performance across all devices.'
   },
   {
     icon: <Shield className="h-8 w-8" />,
-    title: 'Keyframes and Graphs',
-    description: 'The software allows users to create smoother and more precise animations using advanced keyframes and graphs.'
+    title: 'Secure by Design',
+    description: 'Your data is protected with enterprise-grade security and encryption.'
   },
   {
     icon: <Clock className="h-8 w-8" />,
-    title: 'Script to Video',
-    description: 'CapCut for PC features a comprehensive content creation tool driven by users' ideas, where words power their visuals.'
+    title: 'Time-Saving',
+    description: 'Automate repetitive tasks and focus on what matters most to you.'
   },
   {
     icon: <Smartphone className="h-8 w-8" />,
-    title: 'Massive Effects',
-    description: 'The software provides a vast library of trending effects and filters, allowing users to create their own unique style videos.'
+    title: 'Cross-Platform',
+    description: 'Seamlessly sync across all your devices with real-time updates.'
   }
 ];
 
