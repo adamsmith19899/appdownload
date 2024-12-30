@@ -4,7 +4,7 @@ import { Zap, Shield, Clock, Smartphone } from 'lucide-react';
 const features = [
   {
     icon: <Zap className="h-8 w-8" />,
-    title: 'Lightning Fast',
+    title: 'Powerful Editing',
     description: 'Experience instant load times and smooth performance across all devices.'
   },
   {
