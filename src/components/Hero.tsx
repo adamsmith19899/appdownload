@@ -8,10 +8,10 @@ const Hero = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8 animate-fade-in">
             <h1 className="text-5xl md:text-6xl font-bold leading-tight bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-              Transform Your Daily Routine
+             Capcut Video Editing with AI-Powered Features
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              Experience a new way to manage your tasks, boost productivity, and achieve your goals with our intuitive app.
+              With its massive AI features, extensive effects, and filters, CapCut for PC is the ultimate solution for video editors.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="primary-btn group">
