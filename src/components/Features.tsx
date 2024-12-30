@@ -15,7 +15,7 @@ const features = [
   {
     icon: <Clock className="h-8 w-8" />,
     title: 'Script to Video',
-    description: 'CapCut for PC features a comprehensive content creation tool driven by users' ideas, where words power their visuals.'
+    description: 'CapCut for PC features a comprehensive content creation tool driven by users.'
   },
   {
     icon: <Smartphone className="h-8 w-8" />,
