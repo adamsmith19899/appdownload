@@ -9,18 +9,18 @@ const features = [
   },
   {
     icon: <Shield className="h-8 w-8" />,
-    title: 'Secure by Design',
-    description: 'Your data is protected with enterprise-grade security and encryption.'
+    title: 'Keyframes and Graphs',
+    description: 'The software allows users to create smoother and more precise animations using advanced keyframes and graphs.'
   },
   {
     icon: <Clock className="h-8 w-8" />,
-    title: 'Time-Saving',
-    description: 'Automate repetitive tasks and focus on what matters most to you.'
+    title: 'Script to Video',
+    description: 'CapCut for PC features a comprehensive content creation tool driven by users' ideas, where words power their visuals.'
   },
   {
     icon: <Smartphone className="h-8 w-8" />,
-    title: 'Cross-Platform',
-    description: 'Seamlessly sync across all your devices with real-time updates.'
+    title: 'AI Writer',
+    description: 'The software provides a solution for every step of the content creation process that requires text.'
   }
 ];
 
