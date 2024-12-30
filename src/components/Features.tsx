@@ -5,7 +5,7 @@ const features = [
   {
     icon: <Zap className="h-8 w-8" />,
     title: 'Powerful Editing',
-    description: 'Experience instant load times and smooth performance across all devices.'
+    description: 'CapCut for PC offers powerful editing capabilities with extensive effects and filters.'
   },
   {
     icon: <Shield className="h-8 w-8" />,
