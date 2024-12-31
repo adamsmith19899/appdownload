@@ -27,8 +27,8 @@ const Header = () => {
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
   <a href="https://capcuttapk.pro/#features" className="nav-link">Features</a>
-  <a href="#how-it-works" className="nav-link">How it Works</a>
-  <a href="#faqs" className="nav-link">FAQs</a>
+  <a href="#https://capcuttapk.pro/how-it-works" className="nav-link">How it Works</a>
+  <a href="https://capcuttapk.pro/#faqs" className="nav-link">FAQs</a>
   <a href="https://drive.google.com/file/d/1vyIP_LHClmZVXFTRfS5Cs6VghDxFxsPK/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="download-btn">
     <Download className="h-4 w-4 mr-2" />
     Download
@@ -48,9 +48,9 @@ const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden absolute top-full left-0 w-full bg-white shadow-lg py-4">
             <div className="flex flex-col space-y-4 px-6">
-              <a href="#features" className="nav-link">Features</a>
-              <a href="#how-it-works" className="nav-link">How it Works</a>
-              <a href="#faqs" className="nav-link">FAQs</a>
+              <a href="https://capcuttapk.pro/#features" className="nav-link">Features</a>
+              <a href="https://capcuttapk.pro/#how-it-works" className="nav-link">How it Works</a>
+              <a href="https://capcuttapk.pro/#faqs" className="nav-link">FAQs</a>
               <button className="download-btn">
                 <Download className="h-4 w-4 mr-2" />
                 Download
