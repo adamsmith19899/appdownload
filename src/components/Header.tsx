@@ -27,7 +27,7 @@ const Header = () => {
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
   <a href="https://capcuttapk.pro/#features" className="nav-link">Features</a>
-  <a href="#https://capcuttapk.pro/how-it-works" className="nav-link">How it Works</a>
+  <a href="#https://capcuttapk.pro/#how-it-works" className="nav-link">How it Works</a>
   <a href="https://capcuttapk.pro/#faqs" className="nav-link">FAQs</a>
   <a href="https://drive.google.com/file/d/1vyIP_LHClmZVXFTRfS5Cs6VghDxFxsPK/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="download-btn">
     <Download className="h-4 w-4 mr-2" />
