@@ -30,6 +30,7 @@ const Header = () => {
             <a href="#how-it-works" className="nav-link">How it Works</a>
             <a href="#faqs" className="nav-link">FAQs</a>
             <button className="download-btn">
+              <a href="https://drive.google.com/file/d/1vyIP_LHClmZVXFTRfS5Cs6VghDxFxsPK/view?usp=sharing" className="primary-btn group">
               <Download className="h-4 w-4 mr-2" />
               Download
             </button>
