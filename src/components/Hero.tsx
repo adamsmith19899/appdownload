@@ -14,10 +14,10 @@ const Hero = () => {
               With its massive AI features, extensive effects, and filters, CapCut for PC is the ultimate solution for video editors.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <button className="primary-btn group">
-                <Download className="h-5 w-5 mr-2" />
-                Download Now
-              </button>
+              <a href="YOUR_DOWNLOAD_LINK" className="primary-btn group">
+  <Download className="h-5 w-5 mr-2" />
+  Download Now
+</a>
               <a href="#features" className="secondary-btn group">
                 Learn More
                 <ArrowRight className="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" />
