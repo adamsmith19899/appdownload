@@ -21,7 +21,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Smartphone className="h-8 w-8 text-indigo-600" />
-            <span className="text-xl font-bold">AppName</span>
+            <span className="text-xl font-bold">Capcut Apk</span>
           </div>
 
           {/* Desktop Navigation */}
