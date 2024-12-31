@@ -10,7 +10,7 @@ const Footer = () => {
     <footer className="bg-gray-900 text-gray-300">
       <div className="container mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-          <FooterSection title="Company Info">
+          <FooterSection title="">
             <div className="flex items-center space-x-2">
               <Smartphone className="h-8 w-8 text-indigo-400" />
               <span className="text-xl font-bold text-white">Capcut Apk</span>
