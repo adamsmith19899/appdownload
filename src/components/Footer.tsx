@@ -20,8 +20,7 @@ const Footer = () => {
           </FooterSection>
 
           <FooterSection title="Quick Links">
-            <ul className="space-y-2">
-              <li><a href="#features" className="hover:text-indigo-400 transition-colors">Features</a></li>
+            <ul className="space-y-2">              
               <li><Link to="/about" className="hover:text-indigo-400 transition-colors">About Us</Link></li>
               <li><a href="#faqs" className="hover:text-indigo-400 transition-colors">FAQs</a></li>
               <li><Link to="/contact" className="hover:text-indigo-400 transition-colors">Contact</Link></li>
