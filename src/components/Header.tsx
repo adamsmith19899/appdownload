@@ -29,7 +29,7 @@ const Header = () => {
   <a href="#features" className="nav-link">Features</a>
   <a href="#how-it-works" className="nav-link">How it Works</a>
   <a href="#faqs" className="nav-link">FAQs</a>
-  <a href="https://example.com/your-download-link" target="_blank" rel="noopener noreferrer" className="download-btn">
+  <a href="https://drive.google.com/file/d/1vyIP_LHClmZVXFTRfS5Cs6VghDxFxsPK/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="download-btn">
     <Download className="h-4 w-4 mr-2" />
     Download
   </a>
