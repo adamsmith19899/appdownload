@@ -13,7 +13,7 @@ const Footer = () => {
           <FooterSection title="Company Info">
             <div className="flex items-center space-x-2">
               <Smartphone className="h-8 w-8 text-indigo-400" />
-              <span className="text-xl font-bold text-white">AppName</span>
+              <span className="text-xl font-bold text-white">Capcut Apk</span>
             </div>
             <p className="text-sm">Transform your daily routine with our innovative app solution.</p>
             <SocialLinks />
