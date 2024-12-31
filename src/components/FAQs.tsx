@@ -2,30 +2,46 @@ import React, { useState } from 'react';
 import { ChevronDown, ChevronUp } from 'lucide-react';
 
 const faqs = [
-  {
-    question: 'Is CapCut for PC free?',
-    answer: 'Yes, CapCut for PC is free to download and use.'
-  },
-  {
-    question: 'What are the system requirements for CapCut for PC?',
-    answer: 'The system requirements for CapCut for PC include Windows 10/11, 64-bit processor, 4 GB RAM, and 2 GB free disk space.'
-  },
-  {
-    question: 'Can I use CapCut for PC for commercial purposes?',
-    answer: 'Yes, CapCut for PC can be used for commercial purposes, but some features may require a subscription or license.'
-  },
-  {
-    question: 'How do I update CapCut for PC?',
-    answer: 'To update CapCut for PC, visit the official website and download the latest version. Install the update and restart the software.'
-  },
-  {
-    question: 'Does CapCut for PC support 4K video editing?',
-    answer: 'Yes, CapCut for PC supports 4K video editing, allowing users to edit and export high-quality videos.'
-  },
-  {
-    question: 'Can I import projects from other video editing software into CapCut for PC?',
-    answer: 'Yes, CapCut for PC allows users to import projects from other video editing software, making it easy to switch to CapCut.'
-  }
+ {
+  question: 'Is CapCut APK free to download?',
+  answer: 'Yes, CapCut APK is free to download and use.'
+},
+{
+  question: 'What are the minimum system requirements for CapCut APK?',
+  answer: 'The minimum system requirements for CapCut APK include Android 5.0 or later, 2 GB RAM, and 100 MB free disk space.'
+},
+{
+  question: 'Can I use CapCut APK for commercial purposes?',
+  answer: 'Yes, CapCut APK can be used for commercial purposes, but some features may require a subscription or license.'
+},
+{
+  question: 'How do I update CapCut APK?',
+  answer: 'To update CapCut APK, visit the Google Play Store or the official website and download the latest version. Install the update and restart the app.'
+},
+{
+  question: 'Does CapCut APK support 4K video editing?',
+  answer: 'Yes, CapCut APK supports 4K video editing, allowing users to edit and export high-quality videos.'
+},
+{
+  question: 'Can I import projects from other video editing software into CapCut APK?',
+  answer: 'Yes, CapCut APK allows users to import projects from other video editing software, making it easy to switch to CapCut.'
+},
+{
+  question: 'How do I export videos in CapCut APK?',
+  answer: 'To export videos in CapCut APK, go to the "Export" menu, select your desired video format, resolution, and quality, and then tap "Export".'
+},
+{
+  question: 'Can I add music to my videos in CapCut APK?',
+  answer: 'Yes, CapCut APK allows you to add music to your videos from its built-in music library or from your device\'s music library.'
+},
+{
+  question: 'How do I trim clips in CapCut APK?',
+  answer: 'To trim clips in CapCut APK, select the clip you want to trim, then drag the edges of the clip to the desired length.'
+},
+{
+  question: 'Can I use CapCut APK to edit vertical videos?',
+  answer: 'Yes, CapCut APK allows you to edit vertical videos, making it perfect for editing videos shot on smartphones.'
+}
 ];
 
 const FAQs = () => {
