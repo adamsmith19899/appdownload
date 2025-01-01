@@ -1,0 +1,19 @@
+name: Vite Development Server
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Vite development server
+        run: npm run dev
+        env:
+          NODE_ENV: development
