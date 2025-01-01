@@ -30,9 +30,9 @@ const DMCA = () => {
             <div className="mt-2">
               <p>Legal Department</p>
               <p>AppName Inc.</p>
-              <p>123 App Street</p>
+              <p>143 Lovers Street</p>
               <p>San Francisco, CA 94105</p>
-              <p>Email: dmca@appname.com</p>
+              <p>Email: contact@capcuttapk.pro</p>
             </div>
           </section>
         </div>
