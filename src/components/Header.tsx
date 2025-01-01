@@ -24,7 +24,8 @@ const Header = () => {
         <span className="text-xl font-bold">Capcut Apk</span>
       </a>
     </div>
-
+  </nav>
+</header>
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
   <a href="https://capcuttapk.pro/#features" className="nav-link">Features</a>
