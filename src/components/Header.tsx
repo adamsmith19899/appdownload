@@ -14,15 +14,16 @@ const Header = () => {
   }, []);
 
   return (
-    <header className={`fixed w-full z-50 transition-all duration-300 ${
+ <header className={`fixed w-full z-50 transition-all duration-300 ${
       isScrolled ? 'bg-white/90 backdrop-blur-sm shadow-md' : 'bg-transparent'
     }`}>
-      <nav className="container mx-auto px-6 py-4">
-        <div className="flex items-center justify-between">
-          <div className="flex items-center space-x-2">
-            <Smartphone className="h-8 w-8 text-indigo-600" />
-            <span className="text-xl font-bold">Capcut Apk</span>
-          </div>
+  <nav className="container mx-auto px-6 py-4">
+    <div className="flex items-center justify-between">
+      <a href="/" className="flex items-center space-x-2">
+        <Smartphone className="h-8 w-8 text-indigo-600" />
+        <span className="text-xl font-bold">Capcut Apk</span>
+      </a>
+    </div>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
