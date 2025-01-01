@@ -29,7 +29,7 @@ const Hero = () => {
           <div className="relative animate-float">
             <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-3xl blur-3xl opacity-20"></div>
             <img 
-              src="/src/images/capcuthero.jpg" 
+              src="/src/images/capcut-hero.webp" 
               alt="App Interface" 
               className="relative rounded-3xl shadow-2xl"
             />
