@@ -29,7 +29,7 @@ const Hero = () => {
           <div className="relative animate-float">
             <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-3xl blur-3xl opacity-20"></div>
             <img 
-              src="https://capcuttapk.pro/capcuthero.jpg" 
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMv3BqsPOW0imU23zrTaQsqawtq7mZO7gjKmRz8VZBnpk56957bbxgXhLSCX2FdXjUwU3eZQG43vWCwhACzK8xqR1gNJOsyMYiNcx-dkP9dEhZyRJ365TeneRwrbYjfHGOS0tPDkiFehO53zkS831-mfCjn7bTjJd9UtGgtBVFEvvRqGnVxs7D-dxdGTbU/s400/capcut-hero.webp" 
               alt="App Interface" 
               className="relative rounded-3xl shadow-2xl"
             />
