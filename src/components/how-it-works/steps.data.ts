@@ -17,6 +17,6 @@ image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format
 icon: Share2,
 title: "Share & Connect",
 description: "Export your edited video in various formats and share it on social media, messaging apps, or save it to your device's gallery.",
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ6oUdggn5Fo8Eb84Jvy9akkATgPuesdykp1suoozKhyphenhyphenDslkoEUpaJng90leS6ZpLAVQipNZhtKqcST3aHlqO4ZPOFFg54KsmQ_QMr7DUdKyRf546wTW6ev0miCkt5w1j74a688t01SexoG85X51qZ2UDdlr1iFlS1mVlZ8R0ysTKQ2ehAECow0jQzpcVh/s1600/images.webp"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwwVlJGDDpRjs4IvDjTPYAUfdQbmlgAJy3eDzRY-ZOfnEdxzrRzEPMJfUx-u8IFYsQ5p6yNIN-h8ZkgeQ10ZdzYu7w1BChN6keodvmelnSE-5wfLSkSI5DIbcUly30RQqSP9NbDIRLaCBBbRV4gA2JedmV41sZl5Q9Sx6gpb0lbSVRQ2nSkrDc2BvKDgvv/s320/2024-11-Blog-Is-Capcut-safe-for-kids__Thumbnail.jpg"
 }
 ];
