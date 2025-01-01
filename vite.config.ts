@@ -7,4 +7,18 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: './',
+  build: {
+    outDir: 'dist',
+  },
+  server: {
+    base: './',
+    middlewareMode: 'html',
+  },
+  routes: [
+    {
+      src: '(.*)',
+      dest: 'index.html',
+    },
+  ],
 });
